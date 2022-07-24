@@ -1,5 +1,6 @@
 # Gans
 Author: Ayush Bachan
+
 Email: ayushbachan0@gmail.com
 
 Various Different Gans implementation
